@@ -29,3 +29,4 @@ Notre mission : rendre l'expérience Esport accessible à tous, en donnant à ch
 
 Actuellement en développement actif. Beta privée prévue pour le T3 2026.
 
+Contact : Bino212@proton.me
